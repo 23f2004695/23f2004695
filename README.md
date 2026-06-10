@@ -114,10 +114,6 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23f2004695" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004695&layout=compact" />
 </p>
 
