@@ -61,7 +61,8 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ## 📌 Featured Projects
 
-### 🏥 Hospital Management System V2
+### 🏥 Hospital Management System V2 
+(https://github.com/23f2004695/HMSV2)
 
 **Vue.js • Flask-RESTful • REST APIs**
 
@@ -71,7 +72,8 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### 📊 Mukesh Kirana Store Analytics
+### 📊 Mukesh Kirana Store Analytics 
+(https://github.com/23f2004695/Sales-and-Inventory-Performance-Analysis-of-Mukesh-Kirana-Store)
 
 **Python • SQL • Excel**
 
@@ -82,7 +84,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### 🤖 Machine Learning Engineering Practice
+### 🤖 Machine Learning Engineering Practice (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbf641c6c04), (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbcf263680b), (https://www.kaggle.com/code/prabhjotkaurbatth/notebookb951d3acc7)
 
 * Regression and Classification pipelines
 * Hyperparameter tuning and cross-validation
@@ -92,7 +94,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ---
 
 ### 🎓 EduTrack Manager
-
+(https://github.com/prabhbatthh/EduTrack-Manager-)
 **Flask • SQLite**
 
 * Student progress and academic tracking platform
@@ -102,7 +104,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ---
 
 ### ⚡ Student Enrollment API
-
+(https://github.com/prabhbatthh/Student-Enrollment-API)
 **Flask-RESTful • SQLAlchemy**
 
 * RESTful API for educational records
@@ -110,6 +112,15 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 * Database normalization and transaction management
 
 ---
+### 📑 [Academic Report Generator] 
+(https://github.com/prabhbatthh/Academic-Report-Generator)
+*Python • Matplotlib • HTML • CSS*
+
+- Built a command-line utility to process institutional CSV datasets and generate automated analytical reports.
+- Generated statistical summaries, tabular insights, and visualizations using Matplotlib.
+- Produced structured HTML reports for streamlined academic performance analysis.
+
+🔗 GitHub Repository: https://github.com/23f2004695/REPOSITORY-NAME
 
 ## 📈 GitHub Statistics
 
