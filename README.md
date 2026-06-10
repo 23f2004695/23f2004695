@@ -85,9 +85,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ---
 
 ### 🤖 Machine Learning Engineering Practice 
-🔗 (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbf641c6c04),
-🔗 (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbcf263680b),
-🔗 (https://www.kaggle.com/code/prabhjotkaurbatth/notebookb951d3acc7)
+🔗 (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbf641c6c04),(https://www.kaggle.com/code/prabhjotkaurbatth/notebookbcf263680b), (https://www.kaggle.com/code/prabhjotkaurbatth/notebookb951d3acc7)
 
 * Regression and Classification pipelines
 * Hyperparameter tuning and cross-validation
