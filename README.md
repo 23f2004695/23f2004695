@@ -124,14 +124,6 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 - Generated statistical summaries, tabular insights, and visualizations using Matplotlib.
 - Produced structured HTML reports for streamlined academic performance analysis.
 
-
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004695&layout=compact" />
-</p>
-
 ---
 
 ## 🎯 Current Goals
