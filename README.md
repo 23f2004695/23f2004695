@@ -2,7 +2,7 @@
 
 ### 🎓 IIT Madras | Data Science & Applications
 
-### 💻 Machine Learning • Full-Stack Development • Data Engineering
+### 💻 Machine Learning • Full-Stack Development • Data Engineering • Business Analyst
 
 ## 🌐 Portfolio
 
