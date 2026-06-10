@@ -3,9 +3,12 @@
 ### 🎓 IIT Madras | Data Science & Applications
 
 ### 💻 Machine Learning • Full-Stack Development • Data Engineering
+
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-black?style=for-the-badge&logo=vercel)](https://your-vercel-link.vercel.app)
+🚀 Live Portfolio: https://your-vercel-link.vercel.app
+
+Explore my projects, technical skills, and development work in one place.
 
 <p align="left">
   <a href="https://github.com/23f2004695">
