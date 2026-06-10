@@ -6,7 +6,7 @@
 
 ## 🌐 Portfolio
 
-🚀 Live Portfolio: [https://your-vercel-link.vercel.app](https://v0-portfolio-with-nav.vercel.app/)
+🚀 Live Portfolio: [https://portfolio.vercel.app](https://v0-portfolio-with-nav.vercel.app/)
 
 Explore my projects, technical skills, and development work in one place.
 
