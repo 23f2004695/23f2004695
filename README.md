@@ -94,38 +94,6 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### 🎓 EduTrack Manager
-🔗 (https://github.com/prabhbatthh/EduTrack-Manager-)
-
-**Flask • SQLite**
-
-* Student progress and academic tracking platform
-* Relational database design
-* Real-time progress monitoring and reporting
-
----
-
-### ⚡ Student Enrollment API
-🔗 (https://github.com/prabhbatthh/Student-Enrollment-API)
-
-**Flask-RESTful • SQLAlchemy**
-
-* RESTful API for educational records
-* Input validation and error handling
-* Database normalization and transaction management
-
----
-### 📑 [Academic Report Generator] 
-🔗 (https://github.com/prabhbatthh/Academic-Report-Generator)
-
-*Python • Matplotlib • HTML • CSS*
-
-- Built a command-line utility to process institutional CSV datasets and generate automated analytical reports.
-- Generated statistical summaries, tabular insights, and visualizations using Matplotlib.
-- Produced structured HTML reports for streamlined academic performance analysis.
-
----
-
 ## 🎯 Current Goals
 
 * Contribute to Open Source Projects
