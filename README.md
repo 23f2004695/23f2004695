@@ -60,6 +60,14 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ---
 
 ## 📌 Featured Projects
+### Community Library Management System and Reading Club
+🔗 (https://github.com/23f2004695/MAY2026-Team-041)
+
+**React Fast-API Prisma
+
+* Group Project: Acted as Product Manager and Frontend Engineer.
+* A full-stack community library management system (FastAPI + React) featuring role-based dashboards, book lending/reservations, and AI-powered features like a chatbot, book insights, and personalized recommendations via a swappable LLM backend (OpenAI/Bedrock/Ollama)
+* Integrated AI in payment gateway 🔗 https://github.com/prabhbatthh/Track1
 
 ### 🏥 Hospital Management System V2 
 🔗 (https://github.com/23f2004695/HMSV2)
