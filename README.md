@@ -66,6 +66,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 **React Fast-API Prisma
 
 * Group Project: Acted as Product Manager and Frontend Engineer.
+* Folder: 🔗(https://drive.google.com/drive/folders/1WBP6_zQYFr3HCCMvg-CEdeffr3f30pV0?usp=drive_link)
 * A full-stack community library management system (FastAPI + React) featuring role-based dashboards, book lending/reservations, and AI-powered features like a chatbot, book insights, and personalized recommendations via a swappable LLM backend (OpenAI/Bedrock/Ollama)
 * Integrated AI in payment gateway 🔗 https://github.com/prabhbatthh/Track1
 
