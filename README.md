@@ -64,10 +64,6 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 **Vue 3 • Flask REST API • JWT • Redis • Celery • SQLite**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/23f2004695/HMSV2/main/docs/demo/booking-flow.gif" alt="HMSV2 booking flow" width="640" />
-</p>
-
 * A hospital app that follows a visit from symptom to seat, with patient, doctor and admin roles
 * **"Where does it hurt?"** body map: tap a spot on a 3D character, pick a symptom, get the right department
 * Boarding-pass tickets with QR codes and a live queue position, plus a split-flap **lobby "Now Serving" screen**
