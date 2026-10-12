@@ -60,6 +60,32 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ---
 
 ## 📌 Featured Projects
+
+### 🧠 Amazon ML Challenge 2026: Business Entity Resolution
+🔗 (https://github.com/23f2004695/Amazon-ML-challenge-2026)
+
+**Python • Polars • LightGBM • RapidFuzz**
+
+* Linked millions of messy business records from 3 sources to the right real-world entity (typos, Indic-script names, broken addresses)
+* Built IDF-based blocking that reaches ~98.7% recall, plus a 3-stage LightGBM matcher
+* Handled train/test shift by simulating the test distribution, and an unseen country (France) without any labels
+* 0.9864 macro F0.5 on validation, leaderboard improved from 0.961 to 0.979
+
+---
+
+### 🌫️ UrbanWise: Bad-Air-Day Assistant for Indian Cities
+🔗 (https://github.com/23f2004695/UrbanWise) • [Live demo](https://23ggiipmh7h5sh6y4cprovs2pq0mslwe.lambda-url.ap-south-1.on.aws/)
+
+**Vue.js • Flask • AWS Lambda • Gemini • NASA FIRMS**
+
+* Built for Environmental Hacks Track 1 (Air)
+* Smoke Trail traces a city's air back 48 hours on the wind and matches it with NASA satellite fire detections
+* Incoming Smoke Alert forecasts when smoke from fires may reach a city, cross-checked on two weather models
+* School Mode gives go / limit / cancel advice and drafts parent notices in English, Hindi and Punjabi
+* Deployed serverless on AWS (Lambda + EventBridge), refreshed every hour for 8 cities
+
+---
+
 ### Community Library Management System and Reading Club
 🔗 (https://github.com/23f2004695/MAY2026-Team-041)
 
