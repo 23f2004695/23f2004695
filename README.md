@@ -59,7 +59,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ## 📌 Featured Projects
 
-### 🧠 Amazon ML Challenge 2026: Business Entity Resolution
+### 🧠 Amazon ML Challenge 2026: Business Entity Resolution (Best Leaderboard Score: 0.979)
 🔗 (https://github.com/23f2004695/Amazon-ML-challenge-2026)
 
 **Python • Polars • LightGBM • RapidFuzz**
