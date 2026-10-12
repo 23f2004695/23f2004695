@@ -4,10 +4,6 @@
 
 ### 💻 Machine Learning • Full-Stack Development • Data Engineering • Business Analyst
 
-## 🌐 Portfolio
-
-🚀 Live Portfolio: [https://portfolio.vercel.app](https://v0-portfolio-with-nav.vercel.app/)
-
 Explore my projects, technical skills, and development work in one place.
 
 <p align="left">
