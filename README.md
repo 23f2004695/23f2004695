@@ -59,20 +59,6 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ## 📌 Featured Projects
 
-### 🏥 Hospital Management System V2
-🔗 (https://github.com/23f2004695/HMSV2)
-
-**Vue 3 • Flask REST API • JWT • Redis • Celery • SQLite**
-
-* A hospital app that follows a visit from symptom to seat, with patient, doctor and admin roles
-* **"Where does it hurt?"** body map: tap a spot on a 3D character, pick a symptom, get the right department
-* Boarding-pass tickets with QR codes and a live queue position, plus a split-flap **lobby "Now Serving" screen**
-* Doctors paint their weekly hours, run a live queue and sign prescriptions on a digital Rx pad
-* Ctrl+K command palette with voice input, Celery jobs for reminders, reports and CSV exports
-* 53 pytest tests running on GitHub Actions
-
----
-
 ### 🧠 Amazon ML Challenge 2026: Business Entity Resolution
 🔗 (https://github.com/23f2004695/Amazon-ML-challenge-2026)
 
@@ -95,6 +81,20 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 * Incoming Smoke Alert forecasts when smoke from fires may reach a city, cross-checked on two weather models
 * School Mode gives go / limit / cancel advice and drafts parent notices in English, Hindi and Punjabi
 * Deployed serverless on AWS (Lambda + EventBridge), refreshed every hour for 8 cities
+
+---
+
+### 🏥 Hospital Management System V2
+🔗 (https://github.com/23f2004695/HMSV2)
+
+**Vue 3 • Flask REST API • JWT • Redis • Celery • SQLite**
+
+* A hospital app that follows a visit from symptom to seat, with patient, doctor and admin roles
+* **"Where does it hurt?"** body map: tap a spot on a 3D character, pick a symptom, get the right department
+* Boarding-pass tickets with QR codes and a live queue position, plus a split-flap **lobby "Now Serving" screen**
+* Doctors paint their weekly hours, run a live queue and sign prescriptions on a digital Rx pad
+* Ctrl+K command palette with voice input, Celery jobs for reminders, reports and CSV exports
+* 53 pytest tests running on GitHub Actions
 
 ---
 
