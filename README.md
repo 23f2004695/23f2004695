@@ -36,13 +36,14 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,flask,vue,postgresql,sqlite,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,flask,fastapi,vue,react,postgresql,sqlite,redis,aws,git,github,linux,vscode" />
 </p>
 
 ### Data Science & Machine Learning
 
 * NumPy
 * Pandas
+* Polars
 * Matplotlib
 * Seaborn
 * Scikit-Learn
@@ -52,10 +53,29 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 * Random Forests
 * Support Vector Machines (SVM)
 * Neural Networks
+* LightGBM / Gradient Boosting
 
 ---
 
 ## 📌 Featured Projects
+
+### 🏥 Hospital Management System V2
+🔗 (https://github.com/23f2004695/HMSV2)
+
+**Vue 3 • Flask REST API • JWT • Redis • Celery • SQLite**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/23f2004695/HMSV2/main/docs/demo/booking-flow.gif" alt="HMSV2 booking flow" width="640" />
+</p>
+
+* A hospital app that follows a visit from symptom to seat, with patient, doctor and admin roles
+* **"Where does it hurt?"** body map: tap a spot on a 3D character, pick a symptom, get the right department
+* Boarding-pass tickets with QR codes and a live queue position, plus a split-flap **lobby "Now Serving" screen**
+* Doctors paint their weekly hours, run a live queue and sign prescriptions on a digital Rx pad
+* Ctrl+K command palette with voice input, Celery jobs for reminders, reports and CSV exports
+* 53 pytest tests running on GitHub Actions
+
+---
 
 ### 🧠 Amazon ML Challenge 2026: Business Entity Resolution
 🔗 (https://github.com/23f2004695/Amazon-ML-challenge-2026)
@@ -82,40 +102,42 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### Community Library Management System and Reading Club
+### 📚 Community Library Management System and Reading Club
 🔗 (https://github.com/23f2004695/MAY2026-Team-041)
 
-**React Fast-API Prisma
+**React • FastAPI • Prisma**
 
 * Group Project: Acted as Product Manager and Frontend Engineer.
 * Folder: 🔗(https://drive.google.com/drive/folders/1WBP6_zQYFr3HCCMvg-CEdeffr3f30pV0?usp=drive_link)
 * A full-stack community library management system (FastAPI + React) featuring role-based dashboards, book lending/reservations, and AI-powered features like a chatbot, book insights, and personalized recommendations via a swappable LLM backend (OpenAI/Bedrock/Ollama)
 * Integrated AI in payment gateway 🔗 https://github.com/prabhbatthh/Track1
 
-### 🏥 Hospital Management System V2 
-🔗 (https://github.com/23f2004695/HMSV2)
-
-**Vue.js • Flask-RESTful • REST APIs**
-
-* Migrated a traditional web application into a modern Single Page Application (SPA)
-* Implemented decoupled frontend-backend architecture
-* Designed scalable RESTful endpoints and asynchronous data workflows
-
 ---
 
-### 📊 Mukesh Kirana Store Analytics 
+### 📊 Mukesh Kirana Store: Sales & Inventory Analysis
 🔗 (https://github.com/23f2004695/Sales-and-Inventory-Performance-Analysis-of-Mukesh-Kirana-Store)
 
-**Python • SQL • Excel**
+**Excel • Business Data Management (IIT Madras capstone)**
 
-* End-to-end business analytics project
-* Inventory optimization and sales trend analysis
-* Dashboard creation and operational KPI tracking
-* Data cleaning, validation, and reporting
+* Digitised a full year of handwritten sales and purchase records from a real grocery store (31 products, 384 product-month records)
+* FSN (fast / slow / non-moving) classification, profitability and seasonal trend analysis
+* Found that 4 months carry 73.7% of yearly profit and ₹9.7 lakh sits in slow-moving stock
+* 8-point action plan projected to raise annual profit by about 43.7%
 
 ---
 
-### 🤖 Machine Learning Engineering Practice 
+### 🩺 Hospital Management System (V1)
+🔗 (https://github.com/23f2004695/Hospital-Management-System)
+
+**Flask • Jinja2 • SQLAlchemy • Bootstrap**
+
+* Server-rendered version with admin, doctor and patient roles, doctor availability and slot-based booking
+* Hardened with CSRF protection, role-aware logins and full form validation
+* 39 pytest tests running on GitHub Actions
+
+---
+
+### 🤖 Machine Learning Engineering Practice
 🔗 (https://www.kaggle.com/code/prabhjotkaurbatth/notebookbf641c6c04),(https://www.kaggle.com/code/prabhjotkaurbatth/notebookbcf263680b), (https://www.kaggle.com/code/prabhjotkaurbatth/notebookb951d3acc7)
 
 * Regression and Classification pipelines
