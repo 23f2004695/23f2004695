@@ -71,7 +71,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### 🌫️ UrbanWise: Bad-Air-Day Assistant for Indian Cities
+### 🌫️ UrbanWise: A Child Can’t Fix the Air, So We Warn Them 
 🔗 (https://github.com/23f2004695/UrbanWise) • [Live demo](https://23ggiipmh7h5sh6y4cprovs2pq0mslwe.lambda-url.ap-south-1.on.aws/)
 
 **Vue.js • Flask • AWS Lambda • Gemini • NASA FIRMS**
@@ -84,7 +84,7 @@ Currently exploring advanced machine learning systems, backend engineering, and 
 
 ---
 
-### 🏥 Hospital Management System V2
+### 🏥 QueueCare: Real-Time Hospital Intake & Ticketing System 
 🔗 (https://github.com/23f2004695/HMSV2)
 
 **Vue 3 • Flask REST API • JWT • Redis • Celery • SQLite**
